@@ -14,7 +14,7 @@
 - 웹 애플리케이션 최적화
 
 🛠 기술 스택:
-- 🌿 Spring Framework, Spring Boot
+- 🌿 Spring Framework, Spring Boot, JPA
 - 📂 MyBatis
 - ✏️ JSP, Thymeleaf
 - ⚛️ React
