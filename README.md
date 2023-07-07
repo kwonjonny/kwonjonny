@@ -38,7 +38,6 @@
 ### 📫 연락 방법:
 - 📧 이메일: thistrik@naver.com, thistrik@gmail.com
 
-💻 코드와 기술을 사랑하는 개발자로서 여러분과 함께 성장하고 싶습니다. 협업이나 프로젝트에 관심이 있으시면 언제든지 연락주세요!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonjonny&theme=synthwave)
 
