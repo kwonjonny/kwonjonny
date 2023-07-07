@@ -1,9 +1,6 @@
 <div align="center">
-    
 
 ## 👋 안녕하세요, 저는 @kwonjonny입니다!
-
-<div style="background-color: #0D0221; color: #FF71CE; padding: 20px; border-radius: 10px;">
 
 ### 👀 관심 분야:
 - 🖥️ 웹 개발
@@ -33,17 +30,10 @@
 - 🌐 HTML5, Vanilla JavaScript
 - 💾 jQuery
 
-</div>
-
 ### 📫 연락 방법:
 - 📧 이메일: thistrik@naver.com, thistrik@gmail.com
-
+- 📸 인스타그램: [Zoon_june_6](https://instagram.com/Zoon_june_6)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonjonny&theme=synthwave)
 
 </div>
-
-<!---
-kwonjonny/kwonjonny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
