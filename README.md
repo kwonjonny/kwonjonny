@@ -2,6 +2,7 @@
     
 
 ## 👋 안녕하세요, 저는 @kwonjonny입니다!
+## 꾸준함과 반복의 증명 
 
 <div style="background-color: #0D0221; color: #FF71CE; padding: 20px; border-radius: 10px;">
 
