@@ -12,6 +12,11 @@
 💞️ 협업을 원하는 분야:
 - Spring Framework 기반의 프로젝트
 - 웹 애플리케이션 최적화
+  
+🎯 목표:
+- 쿼리 최적화를 통한 효율적인 데이터 관리
+- MyBatis를 활용한 완벽한 게시판 구현
+- JPA와 React를 활용한 완벽한 게시판 구현
 
 🛠 기술 스택:
 - 🌿 Spring Framework, Spring Boot, JPA
