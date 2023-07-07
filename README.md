@@ -1,6 +1,5 @@
 <div align="center">
     
-![Header Image](your_cyberpunk_image_url_here)
 
 ## 👋 안녕하세요, 저는 @kwonjonny입니다!
 
