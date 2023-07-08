@@ -1,5 +1,4 @@
-<div align="center">
-
+<div align="center" style="background-color: #F5F5F5">
 ## 👋 안녕하세요, 저는 @kwonjonny입니다!
 
 ### 👀 관심 분야:
