@@ -1,34 +1,24 @@
-<div align="center" style="background-color: #F5F5F5">
-### 👋 안녕하세요, 저는 @kwonjonny입니다!
+<p align='center'>
+  <a href="#demo">
 
-### 👀 관심 분야:
-- 🖥️ 웹 개발
-- 💽 데이터베이스 관리
-- ⚙️ 프론트엔드 및 백엔드 기술
-
-### 🌱 현재 배우고 있는 것:
-- 🚀 최신 웹 개발 트렌드
-- 🌿 Spring Framework 기반의 개발
-- ⚛️ 리액트를 활용한 프론트엔드 개발
-
-### 💞️ 협업을 원하는 분야:
-- 🌿 Spring Framework 기반의 프로젝트
-- 🛠️ 웹 애플리케이션 최적화
-  
-### 🎯 목표:
-- 🔍 쿼리 최적화를 통한 효율적인 데이터 관리
-- 📝 MyBatis를 활용한 완벽한 게시판 구현
-- ⚛️ JPA와 React를 활용한 완벽한 게시판 구현
-
-### 🛠 기술 스택:
-- 🌿 Spring Framework, Spring Boot, JPA
-- 📂 MyBatis
-- ✏️ JSP, Thymeleaf
-- ⚛️ React
-- 🗄️ MySQL, Oracle
-- 🚀 Nginx
-- 🌐 HTML5, Vanilla JavaScript
-- 💾 jQuery
+## 기술 스택
+![MyBatis](https://img.shields.io/badge/MyBatis-FAAF15?style=for-the-badge&logo=MyBatis&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Kakao](https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Ajax](https://img.shields.io/badge/Ajax-005C5C?style=for-the-badge&logo=Ajax&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=Java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=Java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 
 ### 📫 연락 방법:
 - 📧 이메일: thistrik@naver.com, thistrik@gmail.com
