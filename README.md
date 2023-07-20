@@ -3,7 +3,6 @@
 <p align='center'>
   <a href="#demo">
     <h2 align='center'>🔨 Tech Skill 🔨</h2>
-    <h3 align='center'>🏷️ Major Skills</h3>
     <p align='center'>
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" alt="Spring Boot">
