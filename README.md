@@ -28,10 +28,12 @@
 
   <br>
 
-<p align='center'>
+<div align="center">
+
 ### 📫 연락 방법:
 - 📧 이메일: thistrik@naver.com, thistrik@gmail.com
 - 📸 인스타그램: [Zoon_june_6](https://instagram.com/Zoon_june_6)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonjonny&theme=synthwave)
-</p>
+
+</div>
