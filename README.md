@@ -17,8 +17,6 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
         <img src="https://img.shields.io/badge/Ajax-005C5C?style=for-the-badge&logo=Ajax&logoColor=white" alt="Ajax">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" alt="jQuery">
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     </p>
      <h3 align='center'>🔌 APIs</h3>
     <p align='center'>
