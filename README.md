@@ -3,7 +3,7 @@
 
 <p align='center'>
   <a href="#demo">
-    <h2>🔨 Tech Skill 🔨</h2>
+    <h2 align='center'>🔨 Tech Skill 🔨</h2>
     <p>
         <img src="https://img.shields.io/badge/MyBatis-FAAF15?style=for-the-badge&logo=MyBatis&logoColor=white" alt="MyBatis">
         <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" alt="Spring Boot">
