@@ -17,17 +17,16 @@
     </p>
  <p align='center'>
 <img src="https://camo.githubusercontent.com/3507bbe1e8b3044cb22a9cfdeca259a713d25e1c7c15fce08111ebc3800d1c4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c696a253230494445412d3030303030303f7374796c653d666c6174266c6f676f3d496e74656c6c696a49444541266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&amp;logo=IntellijIDEA&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=black" alt="VS Code">
+   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
  </p>
     <h3 align='center'>🔨  Sub Stack 🔨 </h3>
     <p align='center'>
        <img src="https://camo.githubusercontent.com/38d8bcd3b544e04306b123891822639a9adcf95619c9088e341538a468ce3ea5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a50412d3644423333463f7374796c653d666c6174266c6f676f3d436f6e64612d466f726765266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JPA-6DB33F?style=flat&amp;logo=Conda-Forge&amp;logoColor=white" style="max-width: 100%;">
       <img src="https://camo.githubusercontent.com/6d11b2d64df34dd1e340e9c14285a1126a78b7fb572c6a625eb57e3cd6bb60d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4178696f732d3541323945343f7374796c653d666c6174266c6f676f3d4178696f73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Axios-5A29E4?style=flat&amp;logo=Axios&amp;logoColor=white" style="max-width: 100%;">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://camo.githubusercontent.com/835b9feec81fd42c824d27ac734bfcabb61fa43c4b3b166fe89adf5bd06b079c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=React&amp;logoColor=white" style="max-width: 100%;">
        </p>
        <p align='center'>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
+       <img src="https://camo.githubusercontent.com/97025b8809da6b40bbecd04eb20ed0a15525419900e1bfb32e20fe71cdabf40d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=Javascript&amp;logoColor=white" style="max-width: 100%;">
     </p>
      <h3 align='center'>🔌 APIs 🔌</h3>
     <p align='center'>
