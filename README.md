@@ -8,8 +8,10 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring">
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/MyBatis-%23E34F26?style=for-the-badge&logo=MyBatis&logoColor=yellow&color=blue" alt="MyBatis">
-      <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" alt="NGINX">
+        <img src="https://img.shields.io/badge/MyBatis-%23E34F26?style=for-the-badge&logo=MyBatis&logoColor=yellow&color=blue" alt="MyBatis">
+    </p>
+    <p align='center'>
+       <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" alt="NGINX">
       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase">
      <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white" alt="Amazon S3">
@@ -28,6 +30,7 @@
     </p>
   </a>
 </p>
+
 
   <br>
 
