@@ -7,8 +7,8 @@
        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white" alt="Spring Boot">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring">
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-https://camo.githubusercontent.com/35ea38af39060eb49eade1ebaee0d04d70ce68a37f1c19338b3bc9755881f91d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7942617469732d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d6d796261746973266c6f676f436f6c6f723d7768697465
            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/MyBatis-FF4500?style=for-the-badge&logo=MyBatis&logoColor=white" alt="MyBatis">
       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf">
     </p>
     <h3 align='center'>🧱 Sub Stack</h3>
