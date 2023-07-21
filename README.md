@@ -16,15 +16,21 @@
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase">
      <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white" alt="Amazon S3">
     </p>
-    <h3 align='center'>🧱 Sub Stack</h3>
+ <p align='center'>
+ <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue" alt="IntelliJ IDEA">
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=black" alt="VS Code">
+ </p>
+    <h3 align='center'>🔨  Sub Stack 🔨 </h3>
     <p align='center'>
        <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=Java&logoColor=white" alt="JPA">
+      <img src="https://img.shields.io/badge/Ajax-005C5C?style=for-the-badge&logo=Ajax&logoColor=white" alt="Ajax">
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+       </p>
+       <p align='center'>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Ajax-005C5C?style=for-the-badge&logo=Ajax&logoColor=white" alt="Ajax">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
     </p>
-     <h3 align='center'>🔌 APIs</h3>
+     <h3 align='center'>🔌 APIs 🔌</h3>
     <p align='center'>
         <img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black" alt="Kakao">
     </p>
