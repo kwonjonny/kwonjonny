@@ -9,6 +9,7 @@
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/MyBatis-%23E34F26?style=for-the-badge&logo=MyBatis&logoColor=yellow&color=blue" alt="MyBatis">
+      <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" alt="NGINX">
       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf">
     </p>
     <h3 align='center'>🧱 Sub Stack</h3>
@@ -21,7 +22,6 @@
     </p>
      <h3 align='center'>🔌 APIs</h3>
     <p align='center'>
-        <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" alt="NGINX">
         <img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=Kakao&logoColor=black" alt="Kakao">
     </p>
   </a>
