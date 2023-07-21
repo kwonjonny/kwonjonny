@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/MyBatis-%23E34F26?style=for-the-badge&logo=MyBatis&logoColor=yellow&color=blue" alt="MyBatis">
       <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white" alt="NGINX">
       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase">
     </p>
     <h3 align='center'>🧱 Sub Stack</h3>
     <p align='center'>
