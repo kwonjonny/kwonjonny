@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring">
         <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/MyBatis-%23E34F26?style=for-the-badge&logo=MyBatis&logoColor=yellow&color=black" alt="MyBatis">
+    <img src="https://img.shields.io/badge/MyBatis-%23E34F26?style=for-the-badge&logo=MyBatis&logoColor=yellow&color=blue" alt="MyBatis">
       <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="Thymeleaf">
     </p>
     <h3 align='center'>🧱 Sub Stack</h3>
