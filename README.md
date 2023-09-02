@@ -4,6 +4,8 @@
   <a href="#demo">
     <h2 align='center'>🔨 Tech Skill 🔨</h2>
     <p align='center'>
+      <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=Amazon-S3&logoColor=white" alt="AWS S3 Badge">
+      <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=Java&logoColor=white" alt="JSP Badge">
       <img src="https://camo.githubusercontent.com/5e72f9a0af0fa5b9b05c061ff44e202232e06103ff1870218184da4f81738bc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67626f6f742d3644423333463f7374796c653d666c6174266c6f676f3d537072696e67426f6f74266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&amp;logo=SpringBoot&amp;logoColor=white" style="max-width: 100%;">
        <img src="https://camo.githubusercontent.com/0a0b651e9a24fb80d3feb0ba5794d966ea53419a83d8423723b8f580ba6f95f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666c6174266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Spring-6DB33F?style=flat&amp;logo=Spring&amp;logoColor=white" style="max-width: 100%;">
       <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white">
@@ -34,7 +36,7 @@
     </p>
      <h3 align='center'>🔌 APIs 🔌</h3>
     <p align='center'>
-        <img src="https://camo.githubusercontent.com/fe23264d734492dc366d97ea7f2284ece64a4ba15eaaa94bbc7ab1ab439fbbd1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b616b616f4150492d4646434430303f7374796c653d666c6174266c6f676f3d6b616b616f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/KakaoAPI-FFCD00?style=flat&amp;logo=kakao&amp;logoColor=white" style="max-width: 100%;">
+        <img src="https://camo.githubusercontent.com/fe23264d734492dc366d97ea7f2284ece64a4ba15eaaa94bbc7ab1ab439fbbd1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b616b616f4150492d4646434430303f7374796c653d666c6174266c6f676f3d6b616b616f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/KakaoAPI-FFCD00?style=flat&amp;logo=kakao&amp;logoColor=white" style="max-width: 100%;">'
     </p>
   </a>
 </p>
