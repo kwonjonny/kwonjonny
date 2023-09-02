@@ -24,7 +24,7 @@
    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
    <img src="https://camo.githubusercontent.com/779ecf5e6059fd906fca2099015186945f91679f22da6bf05f37f52e69e86e8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666c6174266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;">
  </p>
-    <h3 align='center'>🔨  Sub Stack 🔨 </h3>
+    <h3 align='center'>🔨 What Do I Studying ?  🔨 </h3>
     <p align='center'>
        <img src="https://camo.githubusercontent.com/38d8bcd3b544e04306b123891822639a9adcf95619c9088e341538a468ce3ea5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a50412d3644423333463f7374796c653d666c6174266c6f676f3d436f6e64612d466f726765266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JPA-6DB33F?style=flat&amp;logo=Conda-Forge&amp;logoColor=white" style="max-width: 100%;">
     <img src="https://camo.githubusercontent.com/835b9feec81fd42c824d27ac734bfcabb61fa43c4b3b166fe89adf5bd06b079c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=React&amp;logoColor=white" style="max-width: 100%;">
