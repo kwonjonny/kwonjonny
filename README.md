@@ -26,6 +26,7 @@
  </p>
     <h3 align='center'>🔨 What Do I Studying ?  🔨 </h3>
     <p align='center'>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" alt="Redis Badge">
        <img src="https://camo.githubusercontent.com/38d8bcd3b544e04306b123891822639a9adcf95619c9088e341538a468ce3ea5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a50412d3644423333463f7374796c653d666c6174266c6f676f3d436f6e64612d466f726765266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JPA-6DB33F?style=flat&amp;logo=Conda-Forge&amp;logoColor=white" style="max-width: 100%;">
     <img src="https://camo.githubusercontent.com/835b9feec81fd42c824d27ac734bfcabb61fa43c4b3b166fe89adf5bd06b079c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c6174266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=React&amp;logoColor=white" style="max-width: 100%;">
              <img src="https://camo.githubusercontent.com/97025b8809da6b40bbecd04eb20ed0a15525419900e1bfb32e20fe71cdabf40d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d4a617661736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=Javascript&amp;logoColor=white" style="max-width: 100%;">
