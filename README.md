@@ -19,6 +19,7 @@
         <img src="https://camo.githubusercontent.com/0a0b651e9a24fb80d3feb0ba5794d966ea53419a83d8423723b8f580ba6f95f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666c6174266c6f676f3d537072696e67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Spring-6DB33F?style=flat&amp;logo=Spring&amp;logoColor=white" style="max-width: 100%;">
  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=Java&logoColor=white" alt="JSP Badge">
 <img src="https://camo.githubusercontent.com/623de3eedf044eafc9850dae7ff9e329c917e778f39170667c06d3188727f40c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e2053332d6666623133623f7374796c653d666c61742d737175617265266c6f676f3d416d617a6f6e205333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Amazon S3-ffb13b?style=flat-square&amp;logo=Amazon S3&amp;logoColor=white" style="max-width: 100%;" style="height: 20px;">
+<img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge" style="height: 20px;">
     </p>
  <p align='center'>
 <img src="https://camo.githubusercontent.com/eb45d260cba494d5bc4bbf6b2645042442ef620464e2a867b95fc2e9180f717e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e74656c6c694a20494445412d3030353537313f7374796c653d666c61742d737175617265266c6f676f3d496e74656c6c694a2049444541266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/IntelliJ IDEA-005571?style=flat-square&amp;logo=IntelliJ IDEA&amp;logoColor=white" style="max-width: 100%;" style="height: 20px;">
@@ -28,7 +29,6 @@
     <h3 align='center'>🔨 What Do I Studying ?  🔨 </h3>
     <p align='center'>
        <img src="https://camo.githubusercontent.com/38d8bcd3b544e04306b123891822639a9adcf95619c9088e341538a468ce3ea5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a50412d3644423333463f7374796c653d666c6174266c6f676f3d436f6e64612d466f726765266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JPA-6DB33F?style=flat&amp;logo=Conda-Forge&amp;logoColor=white" style="max-width: 100%;" style="height: 20px;">
-<img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge" style="height: 20px;">
        </p>
        <p align='center'>
     </p>
