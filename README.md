@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/Nginx-11B48A?style=flat-square&amp;logo=Nginx&amp;logoColor=white" style="height: 20px;">
 </p>
 <p align='center'>
+<img src="https://camo.githubusercontent.com/363dc2ba626865952e5e9ca0852f5431ec9084a5bf7471bfc72974b41cc58a8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a50412d3644423333463f7374796c653d666c6174266c6f676f3d52784442266c6f676f436f6c6f723d7768697465" height="20" data-canonical-src="https://img.shields.io/badge/JPA-6DB33F?style=flat&amp;logo=RxDB&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=Java&logoColor=white" style="height: 20px;">
 <img src="https://img.shields.io/badge/Amazon%20S3-ffb13b?style=flat-square&amp;logo=Amazon%20S3&amp;logoColor=white" style="height: 20px;">
 <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" style="height: 20px;">
@@ -28,7 +29,7 @@
 </p>
 <h3 align='center'>🔨 What Do I Studying ?  🔨 </h3>
 <p align='center'>
-<img src="https://camo.githubusercontent.com/363dc2ba626865952e5e9ca0852f5431ec9084a5bf7471bfc72974b41cc58a8d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a50412d3644423333463f7374796c653d666c6174266c6f676f3d52784442266c6f676f436f6c6f723d7768697465" height="20" data-canonical-src="https://img.shields.io/badge/JPA-6DB33F?style=flat&amp;logo=RxDB&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" style="height:25px;">
 </p>
 <h3 align='center'>🔌 API Skill 🔌</h3>
 <p align='center'>
