@@ -46,7 +46,6 @@
 
 ### 📫 연락 방법:
 - 📧 이메일: thistrik@naver.com
-- 📸 인스타그램: [Zoon_june_6](https://instagram.com/Zoon_june_6)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonjonny&theme=synthwave)
 
