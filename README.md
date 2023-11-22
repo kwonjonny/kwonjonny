@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kwon's%20%20github&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Whoever%20knocks%20persistently,%20ends%20by%20entering.&descAlignY=51&descAlign=62">
-<p align='center'>
+<p align='center'>ㅇ
 <a href="#demo">
 <h2 align='center'>🔨 Tech Skill 🔨</h2>
 <p align='center'>
