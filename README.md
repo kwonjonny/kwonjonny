@@ -2,7 +2,7 @@
 <p align='center'>
 <a href="#demo">
 <h2 align='center'>🔨 Tech Skill 🔨</h2>
-<p align='center'>ㅇ
+<p align='center'>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&amp;logo=Conda-Forge&amp;logoColor=white" style="height: 20px;">
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&amp;logo=SpringBoot&amp;logoColor=white" style="height: 20px;">
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring-Security&logoColor=white" style="height: 20px;">
