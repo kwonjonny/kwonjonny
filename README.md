@@ -21,11 +21,6 @@
 <img src="https://camo.githubusercontent.com/674767218ae6aae18b4fedb4316231ce0fcc386907f50bce6f286f605fac23eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616d617a6f6e6563322d4646393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e656332266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&amp;logo=amazonec2&amp;logoColor=white" style="height: 20px;">
 <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white" style="height: 20px;">
 </p>
-<p align='center'>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-005571?style=flat-square&amp;logo=IntelliJ%20IDEA&amp;logoColor=white" style="height: 20px;">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=GitHub&amp;logoColor=white" style="height: 20px;">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="height: 20px;">
-</p>
 <h3 align='center'>🔨 What Do I Studying ?  🔨 </h3>
 <p align='center'>
 <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" style="height:25px;">
