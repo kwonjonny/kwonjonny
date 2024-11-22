@@ -34,8 +34,8 @@
 
 <div align="center">
 
-### 📫 연락 방법:
-- 📧 이메일: thistrik@gmail.com
+### 📫 Contact :
+- 📧 email: thistrik@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonjonny&theme=synthwave)
 
